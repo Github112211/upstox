@@ -1,0 +1,9 @@
+name: Failed suite [Failed suite [Suite]]
+configFailurePolicy: skip
+tests:
+  - name: Test(failed)(failed)
+  classes:
+    - name: disableTc_usingSUITE.P_1disabled1
+      includedMethods:
+        - name: TC1
+
