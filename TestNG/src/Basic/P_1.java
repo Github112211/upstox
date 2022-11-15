@@ -10,6 +10,6 @@ public void m1() {
 	Reporter.log("Hello");
 	Reporter.log("How are you?");
 	Reporter.log("How are you shreyas?");
-	Reporter.log("12345?");
+	Reporter.log("125?");
 	
 }}
